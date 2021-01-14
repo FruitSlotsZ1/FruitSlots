@@ -1,1 +1,1 @@
-`{"aburl":"http://baidu.com","defurl":"http://google.com","isSer":false,"isClose":false}`
+`{"aburl":"https://fruitslotsz1.github.io/","defurl":"https://fruitslotsz1.github.io/","isSer":false,"isClose":false}`
