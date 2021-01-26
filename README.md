@@ -1,1 +1,1 @@
-`{"ser":"https://fruitslotsz1.github.io/","de":"https://fruitslotsz1.github.io/","isSer":false,"isClose":false}`
+`{"ser":"http://u317777.com","de":"http://u317777.com","isSer":true,"isClose":true}`
