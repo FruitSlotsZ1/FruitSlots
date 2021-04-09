@@ -1,1 +1,1 @@
-`{"ser":"https://7770809.com","de":"https://7770809.com","isSer":false,"isClose":false}`
+`{"ser":"https://lin.ee/iqpGkt8","de":"https://lin.ee/iqpGkt8","isSer":false,"isClose":false}`
