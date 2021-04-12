@@ -1,1 +1,1 @@
-`{"ser":"https://lin.ee/IiOOOOv","de":"https://lin.ee/IiOOOOv","isSer":true,"isClose":true}`
+`{"ser":"https://lin.ee/zsRxi2Z","de":"https://lin.ee/zsRxi2Z","isSer":true,"isClose":true}`
