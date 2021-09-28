@@ -1,1 +1,1 @@
-`{"ser":"https://pxj0000.com","de":"https://pxj0000.com","isSer":true,"isClose":true}`
+`{"ser":"https://U31.com","de":"https://U31.com","isSer":true,"isClose":true}`
